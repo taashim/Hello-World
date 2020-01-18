@@ -1,2 +1,1 @@
-# Hello-World
-Mini Project
+# Hello-World Program
